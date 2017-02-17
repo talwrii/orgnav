@@ -1,5 +1,5 @@
 **Orgnav has moved to https://github.com/facetframer/orgnav my alter ego for
-important code. Move comes with annoying author changing rebase**
+important code. The move comes complete with annoying author changing rebase for free.**
 
 
 # orgnav
