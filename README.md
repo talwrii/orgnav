@@ -1,3 +1,7 @@
+**Orgnav has moved to https://github.com/facetframer/orgnav my alter ego for
+important code. Move comes with annoying author changing rebase**
+
+
 # orgnav
 
 Quickly navigate and search your emacs org trees; use this navigation to capture and organize.
