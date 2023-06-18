@@ -72,6 +72,10 @@
         ))
     result))
 
+(defun orgnav-tree-children (node)
+  "Get the parent of the node at POINT."
+  (orgnav-tree-get-descendants node 1 1))
+
 (defun orgnav-tree-rename (point name)
   "Rename the node at POINT to NAME."
   (let (new-heading)

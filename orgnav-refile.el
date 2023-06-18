@@ -81,7 +81,7 @@ Use OPTIONS when searching for insertion point (see `orgnav-search-subtree)."
 (defun orgnav-refile-nearby (&optional levels-up keep &rest options)
   "Refile nearby the current point.  Go up LEVELS-UP.
 If KEEP keep the original entry.
-Use OPTIONS when searching for insertion point (see `orgnav-search-subtree)."
+Use OPTIONS when searching for insertion point (see `orgnav-search-subtree')."
   (interactive)
   (let* (
          (up-levels (or levels-up 3))
